@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yushuntang.github.io/blogs/</loc>
+  </url><url>
     <loc>https://yushuntang.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -26,7 +28,9 @@
                 href="https://yushuntang.github.io/tags/"
                 />
   </url><url>
-    <loc>https://yushuntang.github.io/blogs/</loc>
+    <loc>https://yushuntang.github.io/blogs/blogs0/</loc>
+  </url><url>
+    <loc>https://yushuntang.github.io/blogs/blogs1/</loc>
   </url><url>
     <loc>https://yushuntang.github.io/</loc>
     <xhtml:link

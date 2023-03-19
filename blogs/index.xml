@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Yushun Tang&#39;s Homepage</title>
+    <link>https://yushuntang.github.io/blogs/</link>
+    <description>Recent content in Blogs on Yushun Tang&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://yushuntang.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yushun Tang&#39;s Blogs0</title>
+      <link>https://yushuntang.github.io/blogs/blogs0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yushuntang.github.io/blogs/blogs0/</guid>
+      <description>This is a test for Blogs0.</description>
+    </item>
+    
+    <item>
+      <title>Yushun Tang&#39;s Blogs1</title>
+      <link>https://yushuntang.github.io/blogs/blogs1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yushuntang.github.io/blogs/blogs1/</guid>
+      <description>This is a test for Blogs1.</description>
+    </item>
+    
+  </channel>
+</rss>

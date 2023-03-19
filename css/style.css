@@ -276,7 +276,7 @@ blockquote p {
 }
 @media (min-width: 34em) {
   .page {
-    width: calc(98% - 165px);
+    width: calc(98% - 170px);
     float: right;
     margin-right: 0;
     /* -webkit-box-shadow: 0 4px 8px 6px rgba(7,17,27,0.06); */
@@ -315,7 +315,7 @@ blockquote p {
 .author-avatar img {
   width: 100%;
   max-width: 200px;
-  border-radius: 50%;
+  border-radius: 50%; /*头像曲率*/
 }
 .author-discrip {
   display: table-cell;
@@ -485,7 +485,7 @@ blockquote p {
 @media (min-width: 34em) {
   .side-card {
     width: 15.25424%;
-    width: 165px;
+    width: 170px;
     float: left;
     margin-right: 1.69492%;
     opacity: 0.75;
@@ -495,7 +495,7 @@ blockquote p {
     /* box-shadow: 0 4px 8px 6px rgba(7,17,27,0.06); */
   }
   .side-card .card-wrap {
-    padding: 10px 10px 10px 17px;
+    padding: 10px 10px 10px 10px;
   }
   .sticky {
     clear: both;
@@ -561,7 +561,7 @@ blockquote p {
 }
 #page_footer {
   clear: both;
-  height: 100px;
+  height: auto;
   width: 100%;
   float: left;
   margin-left: 0;
@@ -587,7 +587,7 @@ blockquote p {
   margin-left: auto;
   margin-right: auto;
   clear: both;
-  margin-top: 2em;
+  margin-top: 0.2em;
   padding-left: 2.5em;
   font-size: 1.28rem;
 }
