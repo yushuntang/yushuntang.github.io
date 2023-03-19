@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yushuntang.github.io/academic-pages/categories/</loc>
+    <loc>https://yushuntang.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yushuntang.github.io/academic-pages/zh-cn/categories/"
+                href="https://yushuntang.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yushuntang.github.io/academic-pages/categories/"
+                href="https://yushuntang.github.io/categories/"
                 />
   </url><url>
-    <loc>https://yushuntang.github.io/academic-pages/tags/</loc>
+    <loc>https://yushuntang.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yushuntang.github.io/academic-pages/zh-cn/tags/"
+                href="https://yushuntang.github.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yushuntang.github.io/academic-pages/tags/"
+                href="https://yushuntang.github.io/tags/"
                 />
   </url><url>
-    <loc>https://yushuntang.github.io/academic-pages/blogs/</loc>
+    <loc>https://yushuntang.github.io/blogs/</loc>
   </url><url>
-    <loc>https://yushuntang.github.io/academic-pages/</loc>
+    <loc>https://yushuntang.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://yushuntang.github.io/academic-pages/zh-cn/"
+                href="https://yushuntang.github.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yushuntang.github.io/academic-pages/"
+                href="https://yushuntang.github.io/"
                 />
   </url><url>
-    <loc>https://yushuntang.github.io/academic-pages/homepage/</loc>
+    <loc>https://yushuntang.github.io/homepage/</loc>
   </url><url>
-    <loc>https://yushuntang.github.io/academic-pages/publications/</loc>
+    <loc>https://yushuntang.github.io/publications/</loc>
   </url>
 </urlset>
